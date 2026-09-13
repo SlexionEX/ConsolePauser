@@ -17,7 +17,7 @@ Console Pauser for Slexion
 
 ## 支持的语言
 
-简体中文、繁體中文、English、日本語、한국어、Français、Deutsch、Español、Português、Italiano、Русский、العربية、ไทย、Tiếng Việt、Nederlands、Polski、Türkçe、Українська、Čeština、Svenska
+简体中文、繁體中文、English、日本語、한국어、Français、Deutsch、Español、Português、Italiano、Русский、العربية、ไทย、Tiếng Việt、Nederlands、Polski、Türkçe、Українська、Čeština、Svenska(需要终端支持)
 
 ## 用法
 
